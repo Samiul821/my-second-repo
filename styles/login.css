@@ -38,3 +38,10 @@ input::placeholder{
 input:focus{
     outline: none;
 }
+.div6{
+    display: flex;
+    align-items: center;
+    margin-top: 15px;
+    font-size: 12px;
+    color: white;
+}
