@@ -4,7 +4,7 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-image: url(../Image/pexels-quang-nguyen-vinh-222549-2166711.jpg);
+    background-image: url(../Image/pexels-pixabay-247600.jpg);
     background-size: cover;
 }
 .div5{
@@ -52,5 +52,6 @@ input:focus{
 h2{
     text-align: center;
     padding: 5px;
-    color: black;
+    color: white;
+    font-size: 30px;
 }
