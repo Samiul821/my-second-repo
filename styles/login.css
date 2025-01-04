@@ -35,3 +35,6 @@ input{
 input::placeholder{
     color: #fff;
 }
+input:focus{
+    outline: none;
+}
