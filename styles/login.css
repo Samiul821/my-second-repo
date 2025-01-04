@@ -45,3 +45,12 @@ input:focus{
     font-size: 12px;
     color: white;
 }
+.div input{
+    margin-right: 5px;
+    margin-top: 0px;
+}
+h2{
+    text-align: center;
+    padding: 5px;
+    color: black;
+}
